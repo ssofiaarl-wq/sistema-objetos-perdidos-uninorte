@@ -288,7 +288,7 @@ parecidos son según la orientación de sus vectores.
 Para dos vectores (A) y (B), se calcula mediante:
 
 $$
-\text{sim}(A,B) = \frac{A \cdot B}{\|A\|\,\|B\|}
+\text{sim}(A,B) = \frac{A \cdot B}{\lVert A \rVert \, \lVert B \rVert}
 $$
 
 El resultado se utiliza como peso para representar la semejanza entre un

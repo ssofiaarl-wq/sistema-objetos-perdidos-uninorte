@@ -285,10 +285,10 @@ fotografías pueden compararse matemáticamente.
 La similitud coseno permite comparar dos embeddings y estimar qué tan
 parecidos son según la orientación de sus vectores.
 
-Para dos vectores (A) y (B), se calcula mediante:
+Para dos vectores $A$ y $B$, se calcula mediante:
 
 $$
-\text{sim}(A,B) = \frac{A \cdot B}{\lVert A \rVert \, \lVert B \rVert}
+\text{sim}(A,B) = \frac{A \cdot B}{\Vert A \Vert \ \Vert B \Vert}
 $$
 
 El resultado se utiliza como peso para representar la semejanza entre un

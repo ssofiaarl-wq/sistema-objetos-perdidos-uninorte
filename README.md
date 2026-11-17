@@ -3,7 +3,7 @@
 **Autores:** Isabella M. Peña, Sofía A. Rodríguez, José D. Bolaños, Gerbin Moreno y Sebastián J. Berrio
 **Curso:** 3231 Matématicas Discretas · Universidad del Norte · Noviembre de 2026
 
-![Interfaz de la aplicación](Docs/captura.png)
+![Interfaz de la aplicación](captura.png)
 
 ## 1. Descripción general
 

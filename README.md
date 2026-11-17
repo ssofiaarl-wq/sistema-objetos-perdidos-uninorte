@@ -55,8 +55,11 @@ proyecto/
 ├── almacen.py
 ├── importar_carpetas.py
 ├── requirements.txt
+├── .gitignore
+├── README.md
 ├── logo-uninorte.png
-├── imagenes/
+├── captura.png
+└── imagenes/
     ├── catalogo/
     └── reportes/
 ```

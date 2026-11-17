@@ -195,6 +195,7 @@ dirección:
 ``` text
 http://127.0.0.1:7860
 ```
+**Nota:** para usar una clave de revisión o una carpeta de datos distintas a las predeterminadas, define `CLAVE_REVISOR` y `DATOS_DIR` **antes** de ejecutar `python app.py` y en la misma terminal (ver sección 7).
 
 Para que la aplicación siga funcionando, mantén abierta la terminal
 donde ejecutaste el comando. Para detenerla, presiona `Ctrl + C`.
